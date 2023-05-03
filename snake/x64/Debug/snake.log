@@ -1,0 +1,4 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(snake.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  bird.cpp
+C:\Users\杠撇\Desktop\snake\bird.cpp(222): warning C4715: “gameover”: 不是所有的控件路径都返回值
+  snake.vcxproj -> C:\Users\杠撇\Desktop\snake\x64\Debug\bird.exe
